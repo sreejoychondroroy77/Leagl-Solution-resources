@@ -1,0 +1,121 @@
+nav ul li a {
+    text-decoration: none;
+    color: rgb(70, 66, 66);
+
+}
+
+nav ul li {
+    list-style: none;
+    color: rgb(70, 66, 66);
+    display: inline;
+    /* background-color: blue; */
+    padding: 5px 10px;
+    margin-left: 7px;
+
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.search {
+    padding: 5px 40px;
+}
+
+.col img {
+    width: 15%;
+}
+
+.learn-more {
+    text-decoration: none;
+    color: white;
+    background-color: burlywood;
+    padding: 2px 5px;
+    border-radius: 100%;
+    margin-left: 170px;
+
+}
+
+.raj {
+    width: 15%;
+    border-radius: 100%;
+    margin-left: 42%;
+    margin-top: 7%;
+}
+
+.raj-intro {
+    margin: 2% 10% 0 10%;
+    text-align: center;
+}
+
+.joy {
+    width: 15%;
+    border-radius: 100%;
+}
+
+.faq-png {
+    height: 70%;
+    margin-left: 20%;
+}
+
+.contact1 {
+    background-color: #dce0dd;
+    border-right: 1px solid gray;
+    border-start-start-radius: 5px;
+
+}
+
+.contact2 {
+    background-color: #dce0dd;
+    border-bottom: 1px solid gray;
+    border-start-end-radius: 5px;
+}
+
+.contact3 {
+    background-color: #dce0dd;
+    border-top: 1px solid gray;
+    border-end-start-radius: 5px;
+}
+
+.contact4 {
+    background-color: #dce0dd;
+    border-left: 1px solid gray;
+    border-end-end-radius: 5px;
+}
+
+.input-form {
+    margin-top: 15%;
+    margin-left: 3%;
+}
+
+footer {
+    margin-top: 5%;
+
+}
+
+.uses-links li {
+    list-style: none;
+}
+
+.uses-links li a {
+    text-decoration: none;
+    color: white;
+    font-size: 10px;
+}
+
+.intro {
+    font-size: 10px;
+}
+
+.connect {
+    color: white;
+    font-size: 10px;
+}
+
+.subscribe {
+    color: white;
+    font-size: 10px;
+
+}
